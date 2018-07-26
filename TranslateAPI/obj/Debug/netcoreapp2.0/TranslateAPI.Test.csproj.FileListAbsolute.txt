@@ -1,0 +1,16 @@
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.csprojAssemblyReference.cache
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.csproj.CoreCompileInputs.cache
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.AssemblyInfoInputs.cache
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.AssemblyInfo.cs
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.Test.deps.json
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.Test.runtimeconfig.json
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.Test.runtimeconfig.dev.json
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.Test.dll
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.Test.pdb
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\Translation.Abstract.dll
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslationAPI.Baidu.dll
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslationAPI.Baidu.pdb
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\Translation.Abstract.pdb
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.csproj.CopyComplete
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.dll
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.Test.pdb

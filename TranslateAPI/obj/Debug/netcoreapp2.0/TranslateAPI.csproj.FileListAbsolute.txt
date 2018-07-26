@@ -1,0 +1,11 @@
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.deps.json
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.runtimeconfig.json
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.runtimeconfig.dev.json
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.dll
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.csprojAssemblyReference.cache
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.csproj.CoreCompileInputs.cache
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.AssemblyInfoInputs.cache
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.AssemblyInfo.cs
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\bin\Debug\netcoreapp2.0\TranslateAPI.pdb
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.dll
+D:\0-leiling\1-project\TranslateAPI\TranslateAPI\obj\Debug\netcoreapp2.0\TranslateAPI.pdb

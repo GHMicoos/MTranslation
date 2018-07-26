@@ -1,0 +1,5 @@
+D:\0-leiling\1-project\TranslateAPI\BaiduTranslationAPI\bin\Debug\netcoreapp2.0\Translation.Abstract.dll
+D:\0-leiling\1-project\TranslateAPI\BaiduTranslationAPI\obj\Debug\netcoreapp2.0\BaiduTranslationAPI.csprojAssemblyReference.cache
+D:\0-leiling\1-project\TranslateAPI\BaiduTranslationAPI\obj\Debug\netcoreapp2.0\BaiduTranslationAPI.csproj.CoreCompileInputs.cache
+D:\0-leiling\1-project\TranslateAPI\BaiduTranslationAPI\obj\Debug\netcoreapp2.0\BaiduTranslationAPI.AssemblyInfoInputs.cache
+D:\0-leiling\1-project\TranslateAPI\BaiduTranslationAPI\obj\Debug\netcoreapp2.0\BaiduTranslationAPI.AssemblyInfo.cs

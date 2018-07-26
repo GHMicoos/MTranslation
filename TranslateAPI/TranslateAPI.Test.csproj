@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="106.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaiduTranslationAPI\TranslationAPI.Baidu.csproj" />
+    <ProjectReference Include="..\Translation.Abstract\Translation.Abstract.csproj" />
+  </ItemGroup>
+
+</Project>
